@@ -1,4 +1,4 @@
-# 🎵 Voice RAG - Chat with Audio Files 
+# Voice RAG - Chat with Audio Files 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org) [![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red.svg)](https://streamlit.io) [![LangChain](https://img.shields.io/badge/LangChain-RAG%20Framework-green.svg)](https://langchain.com) [![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-purple.svg)](https://ollama.ai)
 
 A simple Voice RAG (Retrieval-Augmented Generation) system using Deepseek, LangChain, and Streamlit to chat with audio files and answer complex questions about them.
